@@ -12,3 +12,8 @@ body{
 h1{
 text-align: center;
 }
+h2{
+text-align: right;
+font-size: 30px;
+font-family: monospace;
+}
